@@ -1,0 +1,9 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	16	static
+../Core/Src/main.c:46:6:update_rgb_color	16	static
+../Core/Src/main.c:62:6:vTaskLiveStreaming	72	static
+../Core/Src/main.c:93:6:vTaskRGBLed	24	static
+../Core/Src/main.c:104:6:vTaskModeManager	16	static
+../Core/Src/main.c:120:5:main	16	static
+../Core/Src/main.c:159:6:EXTI1_IRQHandler	4	static
+../Core/Src/main.c:169:6:TIM2_IRQHandler	16	static,ignoring_inline_asm
