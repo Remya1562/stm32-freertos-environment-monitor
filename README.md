@@ -42,13 +42,10 @@ The system is designed with **multitasking** using FreeRTOS to handle sensor rea
 ## Images
 
 **Hardware Setup:**
-![Prototype](miniproject_images/hardware.jpg)
+![Prototype](miniproject_images/working_setup.jpg)
 
 **Live Output on Serial Monitor:**
-![Serial Output](miniproject_images/live temp and humidity readings.png)
-![Serial Output](miniproject_images/thresold adjust mode.png)
-
-**RGB LED Behavior:**
-![RGB LED](miniproject_images/rgb_demo.jpg)
+![Serial Output](miniproject_images/live_streaming_mode.png)
+![Serial Output](miniproject_images/thresold_adjust_mode.png)
 
 
