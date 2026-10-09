@@ -1,0 +1,11 @@
+Timestamp,Test Case ID,Test Description,Input / Observed Value,Expected Result,Actual Result,Status
+2026-10-09 19:46:41,TC01,Temperature data received,37.87 C,Numeric temperature value received,Numeric temperature received,PASS
+2026-10-09 19:46:41,TC02,Temperature range validation,37.87 C,-40 to 85 C,Temperature within range,PASS
+2026-10-09 19:46:41,TC03,Humidity data received,69.56 %,Numeric humidity value received,Numeric humidity received,PASS
+2026-10-09 19:46:41,TC04,Humidity range validation,69.56 %,0 to 100 %,Humidity within range,PASS
+2026-10-09 19:46:41,TC05,Threshold data received,25.00 C,Numeric threshold value received,Numeric threshold received,PASS
+2026-10-09 19:46:41,TC06,Threshold range validation,25.00 C,25 to 45 C,Threshold within range,PASS
+2026-10-09 19:46:41,ADJ01,Threshold adjustment range validation,25.00 C,25 to 45 C,Adjusted threshold within range,PASS
+2026-10-09 19:46:41,UART01,UART communication timeout,,UART messages received within 8 seconds,Timeout test not triggered,NOT RUN
+2026-10-09 19:46:41,UART02,Live sensor data timeout,,Valid sensor data received within 8 seconds,Timeout test not triggered,NOT RUN
+2026-10-09 19:46:41,SUMMARY,Overall test session result,"7 passed, 0 failed",All required sensor tests pass,All required sensor tests passed; no failures recorded,PASS

@@ -1,0 +1,19 @@
+Timestamp,Test_ID,Parameter,Value,Result,Details
+2026-10-09T18:51:09,UART01,Communication,,FAIL,No sensor data for 5 seconds
+2026-10-09T18:51:10,TC06,Mode switching,,PASS,Mode switched: THRESHOLD_ADJUST
+2026-10-09T18:51:10,TC05,Threshold adjustment,25.01,PASS,Threshold adjustment output
+2026-10-09T18:51:10,TC05,Threshold adjustment,25.04,PASS,Threshold adjustment output
+2026-10-09T18:51:10,TC05,Threshold adjustment,25.01,PASS,Threshold adjustment output
+2026-10-09T18:51:11,TC05,Threshold adjustment,25.0,PASS,Threshold adjustment output
+2026-10-09T18:51:11,TC05,Threshold adjustment,25.02,PASS,Threshold adjustment output
+2026-10-09T18:51:11,TC05,Threshold adjustment,25.03,PASS,Threshold adjustment output
+2026-10-09T18:51:12,TC05,Threshold adjustment,25.03,PASS,Threshold adjustment output
+2026-10-09T18:51:12,TC05,Threshold adjustment,25.0,PASS,Threshold adjustment output
+2026-10-09T18:51:12,TC05,Threshold adjustment,25.0,PASS,Threshold adjustment output
+2026-10-09T18:51:13,TC05,Threshold adjustment,25.03,PASS,Threshold adjustment output
+2026-10-09T18:51:13,TC05,Threshold adjustment,25.01,PASS,Threshold adjustment output
+2026-10-09T18:51:13,TC05,Threshold adjustment,25.0,PASS,Threshold adjustment output
+2026-10-09T18:51:14,TC05,Threshold adjustment,25.03,PASS,Threshold adjustment output
+2026-10-09T18:51:14,TC05,Threshold adjustment,25.0,PASS,Threshold adjustment output
+2026-10-09T18:51:14,TC05,Threshold adjustment,25.02,PASS,Threshold adjustment output
+2026-10-09T18:51:15,TC05,Threshold adjustment,25.0,PASS,Threshold adjustment output

@@ -1,0 +1,15 @@
+Timestamp,Test_ID,Parameter,Value,Result,Details
+2026-10-09T19:07:47,MODE01,Operating mode,THRESHOLD_ADJUST,INFO,Mode switched: THRESHOLD_ADJUST
+2026-10-09T19:07:47,ADJ01,Threshold adjustment,25.89,PASS,Threshold adjustment in range
+2026-10-09T19:07:47,ADJ01,Threshold adjustment,25.88,PASS,Threshold adjustment in range
+2026-10-09T19:07:48,ADJ01,Threshold adjustment,25.91,PASS,Threshold adjustment in range
+2026-10-09T19:07:48,ADJ01,Threshold adjustment,25.89,PASS,Threshold adjustment in range
+2026-10-09T19:07:48,ADJ01,Threshold adjustment,25.89,PASS,Threshold adjustment in range
+2026-10-09T19:07:49,ADJ01,Threshold adjustment,25.9,PASS,Threshold adjustment in range
+2026-10-09T19:07:49,ADJ01,Threshold adjustment,25.89,PASS,Threshold adjustment in range
+2026-10-09T19:07:49,ADJ01,Threshold adjustment,25.9,PASS,Threshold adjustment in range
+2026-10-09T19:07:50,ADJ01,Threshold adjustment,25.9,PASS,Threshold adjustment in range
+2026-10-09T19:07:50,ADJ01,Threshold adjustment,25.89,PASS,Threshold adjustment in range
+2026-10-09T19:07:50,ADJ01,Threshold adjustment,25.89,PASS,Threshold adjustment in range
+2026-10-09T19:07:51,ADJ01,Threshold adjustment,25.91,PASS,Threshold adjustment in range
+2026-10-09T19:07:51,MODE01,Operating mode,LIVE_STREAMING,INFO,Mode switched: LIVE_STREAMING
